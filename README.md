@@ -38,3 +38,13 @@ The concept intentionally avoids presenting unverified class lists, fees, term d
 - `script.js` — mobile navigation and footer year
 
 © Golden-Rhys Company — concept preview.
+
+## Updated concept photography
+
+The current visual preview uses photographs depicting Malawian/African learners in real classroom settings:
+- Hero classroom image: UNICEF Malawi, Chapita Primary School story — https://www.unicef.org/malawi/stories/better-classrooms-expand-girls-education-chapita
+- Learning section image: UNICEF Malawi, Kalima Primary School — https://www.unicef.org/malawi/reports/citizens-budget-20242025
+- School-life image: UNICEF Malawi, story on learners returning to school — https://www.unicef.org/malawi/stories/how-covid-19-vaccine-renewed-hope-learners-malawi
+- Admissions image: UNICEF Supply Division, Malawi classroom image — https://www.unicef.org/supply/
+
+**Important image-rights note:** These are publicly viewable source images, not automatically free for commercial reuse. This is a private concept preview; obtain permission/licensing from the respective rights holders or replace the images with Karror-approved photography before using the site as a public commercial website. Photo credit alone does not grant usage rights.
