@@ -16,6 +16,8 @@ Deploy as a Render **Static Site**:
 - School introduction and learning philosophy
 - Academic-stage overview (illustrative placeholders)
 - Learning environment and school-life sections
+- Suggested leadership, teaching-team and school-community profiles
+- News, announcements, events and learning-updates content areas
 - Photo gallery
 - Whole-child development highlights
 - Admissions information and enquiry steps
