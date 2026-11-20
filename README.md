@@ -1,16 +1,31 @@
 # Karror Schools — Website Concept
 
-A responsive static website concept prepared by Golden-Rhys Company for presentation to Karror Schools.
+A responsive private-school website concept prepared by Golden-Rhys Company for Karror Schools.
 
 ## Preview deployment
 
-Deploy this repository as a Render **Static Site**:
+Deploy as a Render **Static Site**:
 - Repository: `COOLEO1/karror-schools-demo`
 - Branch: `main`
 - Build command: leave blank
 - Publish directory: `.`
 
-## Research notes and content accuracy
+## Features included in this concept
+
+- Premium responsive homepage and mobile navigation
+- School introduction and learning philosophy
+- Academic-stage overview (illustrative placeholders)
+- Learning environment and school-life sections
+- Photo gallery
+- Whole-child development highlights
+- Admissions information and enquiry steps
+- Interactive FAQ accordions
+- Enquiry form that prepares a WhatsApp message
+- Sticky navigation, back-to-top control and responsive layouts
+
+The enquiry form opens WhatsApp with the visitor's message prepared. It does not store submissions or connect to a school database. A secure admissions application, parent/student portal, payments, downloadable forms, events management or CMS would require a backend and separate scope.
+
+## Research and content accuracy
 
 Publicly available information reviewed for this concept indicates:
 - Karror Schools is based in Mangochi Boma, Malawi.
@@ -21,30 +36,21 @@ Sources:
 - https://satcp.mw/mgp-applications/
 - https://mw.linkedin.com/jobs/view/multiple-at-karror-schools-3876200595
 
-The concept intentionally avoids presenting unverified class lists, fees, term dates, staff profiles, accreditation claims or detailed admissions requirements as confirmed facts. Some programme labels and descriptive copy are illustrative and must be checked by the school before publication.
+Class names, curriculum, fees, term dates, staff, facilities, policies and detailed admission requirements are not verified. Sample programme labels and descriptions must be replaced with school-approved information before launch.
 
-## Images and contact
+## Photography and permissions
 
-- Photographs are illustrative images loaded from Unsplash; they are not represented as actual Karror Schools photographs.
-- The WhatsApp link uses the number displayed in the public recruitment listing. Confirm with the school that this is the correct current admissions contact before production launch.
-- Replace the sample photography with school-approved images and obtain permission for all identifiable learners before publication.
-- Confirm the school's preferred logo, colours, location wording, programmes, admissions process, policies and contact channels before launch.
-- The website is a static presentation concept. It does not include a student portal, database, online application processing or backend form submission.
+Photographs are illustrative and do not represent Karror Schools. Some images are from UNICEF Malawi / UNICEF Supply Division and Unsplash. Public availability does not automatically grant commercial reuse rights. Obtain permission or a suitable licence for every image before public commercial launch, and obtain appropriate consent for identifiable learners. The best final version would use photographs supplied and approved by Karror Schools.
 
-## Files
+Image sources used:
+- https://www.unicef.org/malawi/stories/better-classrooms-expand-girls-education-chapita
+- https://www.unicef.org/malawi/reports/citizens-budget-20242025
+- https://www.unicef.org/malawi/stories/how-covid-19-vaccine-renewed-hope-learners-malawi
+- https://www.unicef.org/supply/
+- https://unsplash.com/
 
-- `index.html` — page structure and content
-- `styles.css` — responsive visual design
-- `script.js` — mobile navigation and footer year
+## Before production launch
+
+Confirm the school's logo, preferred brand colours, official contact number, exact location, class levels, curriculum, facilities, admissions steps, fees (if published), policies, term dates and social links. Replace all sample images with school-approved photography where possible.
 
 © Golden-Rhys Company — concept preview.
-
-## Updated concept photography
-
-The current visual preview uses photographs depicting Malawian/African learners in real classroom settings:
-- Hero classroom image: UNICEF Malawi, Chapita Primary School story — https://www.unicef.org/malawi/stories/better-classrooms-expand-girls-education-chapita
-- Learning section image: UNICEF Malawi, Kalima Primary School — https://www.unicef.org/malawi/reports/citizens-budget-20242025
-- School-life image: UNICEF Malawi, story on learners returning to school — https://www.unicef.org/malawi/stories/how-covid-19-vaccine-renewed-hope-learners-malawi
-- Admissions image: UNICEF Supply Division, Malawi classroom image — https://www.unicef.org/supply/
-
-**Important image-rights note:** These are publicly viewable source images, not automatically free for commercial reuse. This is a private concept preview; obtain permission/licensing from the respective rights holders or replace the images with Karror-approved photography before using the site as a public commercial website. Photo credit alone does not grant usage rights.
